@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Kalpurush Technologies!
-    text: Developing Bespoke Technology Solutions!
-    button: Tell Me More
+    title: Developing Bespoke Technology Solutions!
+    text: Kalpurush Technologies!
+    button: Get to Know Us
     buttonlink: "#services"
 
   services:
