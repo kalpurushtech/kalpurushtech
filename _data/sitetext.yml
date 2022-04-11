@@ -12,30 +12,30 @@
 en: &DEFAULT_EN
   header:
     title: Developing Bespoke Technology Solutions!
-    text: Kalpurush Technologies!
+    text: 
     button: Get to Know Us
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "What We Make"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Web Solutions"
+        desc: "We Design & Develop bespoke Website & Web App serving as our client's Personal Portfolio to Multi-vendor E-commerce System."
+        icon: fas fa-laptop-code #find more at https://fontawesome.com/icons
+      - title: "Mobile Solutions"
+        desc: "We create intuitive & beautiful Mobile App solutions like Games & Apps for Android & iOS Devices alike."
+        icon: fas fa-mobile
+      - title: "Integrated Solutions"
+        desc: "Combining Hardware, Network & Software to Develop ERP, CRM, HR, Security, POS, Attendance & IoT System to solve day to day problems."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Some of our Successful & Ongoing endeavours."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   timeline:
     title: "Timeline"
@@ -70,8 +70,8 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "Story of Kalpurush Technologies"
+    body: "Kalpurush (কালপুরুষ) is the Bengali word for Orion Constellation. The constellation is named after the hunter in Greek mythology is one of the most obvious and recognizable constellations in the sky.  "
     section: about
 
   clients:
